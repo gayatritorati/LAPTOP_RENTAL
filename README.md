@@ -1,4 +1,4 @@
-A CRM APPLICATION FOR LAPTOP RENTALS Category: Salesforce
+A CRM APPLICATION FOR LAPTOP RENTALS:
 
 Skills Required: Salesforce Developer
 
