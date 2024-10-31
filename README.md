@@ -4,4 +4,4 @@ Skills Required: Salesforce Developer
 
 Project Description:
 
-CRM Application on Laptop rentals is about delivering the items to the customers by rental purpose. It leverages the power of customer relationship management (CRM) to enhance customer experiences, optimize store operations, and improve overall efficiency. Additionally to these, we also need to do an effective CRM i.e via communicating through email with the potential customers identified.
+The Laptop Rentals CRM Application focuses on delivering rental items to customers, enhancing their experience through effective customer relationship management. This system not only improves store operations and streamlines processes but also ensures efficient communication with potential customers via targeted emails to foster strong customer connections.
